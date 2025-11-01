@@ -1,0 +1,66 @@
+#Tw{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size: 48px;
+font-weight: bold;
+background: linear-gradient(45deg,pink,red,blueviolet);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+}
+#HPO{
+color: deeppink;
+}
+#NLO{
+color: crimson;
+}
+#PRO{
+color: blue;
+}
+#NUB{
+color: blueviolet;
+}
+#timer{
+    color: deeppink;
+}
+#timer2{
+color: blueviolet;
+}
+#TRY{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+#TRU{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+#TRI{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+#TRP{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+#HOP{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size: 48px;
+font-weight: bold;
+background: linear-gradient(45deg,pink,red,blueviolet);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;}
